@@ -1,0 +1,10 @@
+C:\Users\luisa\source\repos\PeñaflorLE2\PeñaflorBlogDB\bin\Debug\PeñaflorBlogDB.dacpac
+C:\Users\luisa\source\repos\PeñaflorLE2\PeñaflorBlogDB\bin\Debug\PeñaflorBlogDB.dll
+C:\Users\luisa\source\repos\PeñaflorLE2\PeñaflorBlogDB\bin\Debug\PeñaflorBlogDB.pdb
+C:\Users\luisa\source\repos\PeñaflorLE2\PeñaflorBlogDB\obj\Debug\PeñaflorBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\luisa\source\repos\PeñaflorLE2\PeñaflorBlogDB\obj\Debug\Model.xml
+C:\Users\luisa\source\repos\PeñaflorLE2\PeñaflorBlogDB\obj\Debug\refactor.xml
+C:\Users\luisa\source\repos\PeñaflorLE2\PeñaflorBlogDB\obj\Debug\postdeploy.sql
+C:\Users\luisa\source\repos\PeñaflorLE2\PeñaflorBlogDB\obj\Debug\predeploy.sql
+C:\Users\luisa\source\repos\PeñaflorLE2\PeñaflorBlogDB\obj\Debug\PeñaflorBlogDB.dll
+C:\Users\luisa\source\repos\PeñaflorLE2\PeñaflorBlogDB\obj\Debug\PeñaflorBlogDB.pdb
