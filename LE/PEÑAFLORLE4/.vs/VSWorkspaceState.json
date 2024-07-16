@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\frontend",
+    "\\frontend\\.angular",
+    "\\frontend\\public",
+    "\\frontend\\src",
+    "\\frontend\\src\\app",
+    "\\frontend\\src\\app\\components",
+    "\\frontend\\src\\app\\components\\list-posts",
+    "\\frontend\\src\\app\\models"
+  ],
+  "PreviewInSolutionExplorer": false
+}
