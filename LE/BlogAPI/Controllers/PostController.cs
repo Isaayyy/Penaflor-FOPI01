@@ -8,9 +8,6 @@ using System.Security.Claims;
 
 namespace BlogAPI.Controllers
 {
-    [ApiController]
-    [Route("api/[controller]")]
-
     public class PostController : Controller
     {
         private ISqlData _db;
@@ -21,7 +18,8 @@ namespace BlogAPI.Controllers
         }
 
         [AllowAnonymous]
-        [HttpPost]
+        [HttpGet]
+        [Route("api/[controller]")]
         public ActionResult ListPosts()
         {
             List<ListPostModel> posts = _db.ListPosts();

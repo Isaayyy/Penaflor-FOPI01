@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XgER4EYREg8=",
+  "dgSpecHash": "qVaP1KwSE4A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE5\\BlogAPI\\BlogAPI.csproj",
+  "projectFilePath": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE\\BlogAPI\\BlogAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luisa\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\luisa\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.0\\microsoft.aspnetcore.authentication.jwtbearer.6.0.0.nupkg.sha512",

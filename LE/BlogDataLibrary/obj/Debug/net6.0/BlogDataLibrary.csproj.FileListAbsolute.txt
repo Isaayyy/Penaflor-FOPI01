@@ -37,16 +37,16 @@ C:\Users\luisa\Documents\GitHub\Penaflor-FOPI01\LE4\BlogDataLibrary\obj\Debug\ne
 C:\Users\luisa\Documents\GitHub\Penaflor-FOPI01\LE4\BlogDataLibrary\obj\Debug\net6.0\refint\BlogDataLibrary.dll
 C:\Users\luisa\Documents\GitHub\Penaflor-FOPI01\LE4\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.pdb
 C:\Users\luisa\Documents\GitHub\Penaflor-FOPI01\LE4\BlogDataLibrary\obj\Debug\net6.0\ref\BlogDataLibrary.dll
-C:\Users\luisa\Documents\GitHub\Penaflor-FOPI01\LE5\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.deps.json
-C:\Users\luisa\Documents\GitHub\Penaflor-FOPI01\LE5\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.dll
-C:\Users\luisa\Documents\GitHub\Penaflor-FOPI01\LE5\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.pdb
-C:\Users\luisa\Documents\GitHub\Penaflor-FOPI01\LE5\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.AssemblyReference.cache
-C:\Users\luisa\Documents\GitHub\Penaflor-FOPI01\LE5\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\luisa\Documents\GitHub\Penaflor-FOPI01\LE5\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfoInputs.cache
-C:\Users\luisa\Documents\GitHub\Penaflor-FOPI01\LE5\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfo.cs
-C:\Users\luisa\Documents\GitHub\Penaflor-FOPI01\LE5\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.CoreCompileInputs.cache
-C:\Users\luisa\Documents\GitHub\Penaflor-FOPI01\LE5\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.sourcelink.json
-C:\Users\luisa\Documents\GitHub\Penaflor-FOPI01\LE5\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.dll
-C:\Users\luisa\Documents\GitHub\Penaflor-FOPI01\LE5\BlogDataLibrary\obj\Debug\net6.0\refint\BlogDataLibrary.dll
-C:\Users\luisa\Documents\GitHub\Penaflor-FOPI01\LE5\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.pdb
-C:\Users\luisa\Documents\GitHub\Penaflor-FOPI01\LE5\BlogDataLibrary\obj\Debug\net6.0\ref\BlogDataLibrary.dll
+C:\Users\luisa\Desktop\LE4 - try 1\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.deps.json
+C:\Users\luisa\Desktop\LE4 - try 1\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.dll
+C:\Users\luisa\Desktop\LE4 - try 1\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.pdb
+C:\Users\luisa\Desktop\LE4 - try 1\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.AssemblyReference.cache
+C:\Users\luisa\Desktop\LE4 - try 1\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\Desktop\LE4 - try 1\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfoInputs.cache
+C:\Users\luisa\Desktop\LE4 - try 1\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfo.cs
+C:\Users\luisa\Desktop\LE4 - try 1\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\luisa\Desktop\LE4 - try 1\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.sourcelink.json
+C:\Users\luisa\Desktop\LE4 - try 1\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.dll
+C:\Users\luisa\Desktop\LE4 - try 1\BlogDataLibrary\obj\Debug\net6.0\refint\BlogDataLibrary.dll
+C:\Users\luisa\Desktop\LE4 - try 1\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.pdb
+C:\Users\luisa\Desktop\LE4 - try 1\BlogDataLibrary\obj\Debug\net6.0\ref\BlogDataLibrary.dll
