@@ -700,11 +700,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE5\\BlogDataLibrary\\BlogDataLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE\\BlogDataLibrary\\BlogDataLibrary.csproj",
       "projectName": "BlogDataLibrary",
-      "projectPath": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE5\\BlogDataLibrary\\BlogDataLibrary.csproj",
+      "projectPath": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE\\BlogDataLibrary\\BlogDataLibrary.csproj",
       "packagesPath": "C:\\Users\\luisa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE5\\BlogDataLibrary\\obj\\",
+      "outputPath": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE\\BlogDataLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luisa\\AppData\\Roaming\\NuGet\\NuGet.Config",

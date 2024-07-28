@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlogTestUI
-build_property.ProjectDir = C:\Users\luisa\Documents\GitHub\Penaflor-FOPI01\LE5\BlogTestUI\
+build_property.ProjectDir = C:\Users\luisa\Documents\GitHub\Penaflor-FOPI01\LE\BlogTestUI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

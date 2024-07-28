@@ -1,9 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE5\\",
+  "WorkspaceRootPath": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5636EFD1-449F-4777-8C08-0E84F0C7782B}|BlogAPI\\BlogAPI.csproj|c:\\users\\luisa\\documents\\github\\penaflor-fopi01\\le5\\blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90C848C7-FD3A-4069-A2CE-83BE1C435548}|BlogTestUI\\BlogTestUI.csproj|c:\\users\\luisa\\documents\\github\\penaflor-fopi01\\le\\blogtestui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90C848C7-FD3A-4069-A2CE-83BE1C435548}|BlogTestUI\\BlogTestUI.csproj|solutionrelative:blogtestui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5636EFD1-449F-4777-8C08-0E84F0C7782B}|BlogAPI\\BlogAPI.csproj|c:\\users\\luisa\\documents\\github\\penaflor-fopi01\\le\\blogapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5636EFD1-449F-4777-8C08-0E84F0C7782B}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C848C7-FD3A-4069-A2CE-83BE1C435548}|BlogTestUI\\BlogTestUI.csproj|c:\\users\\luisa\\documents\\github\\penaflor-fopi01\\le\\blogtestui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C848C7-FD3A-4069-A2CE-83BE1C435548}|BlogTestUI\\BlogTestUI.csproj|solutionrelative:blogtestui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FF0394-5410-4D43-AA4B-7F5AE894229C}|BlogDataLibrary\\BlogDataLibrary.csproj|c:\\users\\luisa\\documents\\github\\penaflor-fopi01\\le\\blogdatalibrary\\database\\isqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FF0394-5410-4D43-AA4B-7F5AE894229C}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\database\\isqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FF0394-5410-4D43-AA4B-7F5AE894229C}|BlogDataLibrary\\BlogDataLibrary.csproj|c:\\users\\luisa\\documents\\github\\penaflor-fopi01\\le\\blogdatalibrary\\database\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FF0394-5410-4D43-AA4B-7F5AE894229C}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\database\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FF0394-5410-4D43-AA4B-7F5AE894229C}|BlogDataLibrary\\BlogDataLibrary.csproj|c:\\users\\luisa\\documents\\github\\penaflor-fopi01\\le\\blogdatalibrary\\data\\isqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FF0394-5410-4D43-AA4B-7F5AE894229C}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\data\\isqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5636EFD1-449F-4777-8C08-0E84F0C7782B}|BlogAPI\\BlogAPI.csproj|c:\\users\\luisa\\documents\\github\\penaflor-fopi01\\le\\blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5636EFD1-449F-4777-8C08-0E84F0C7782B}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,20 +38,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE5\\BlogAPI\\Program.cs",
-              "RelativeDocumentMoniker": "BlogAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE5\\BlogAPI\\Program.cs",
-              "RelativeToolTip": "BlogAPI\\Program.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE\\BlogTestUI\\Program.cs",
+              "RelativeDocumentMoniker": "BlogTestUI\\Program.cs",
+              "ToolTip": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE\\BlogTestUI\\Program.cs",
+              "RelativeToolTip": "BlogTestUI\\Program.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAswGkAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T04:11:49.683Z",
+              "WhenOpened": "2024-07-16T11:39:59.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE\\BlogTestUI\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogTestUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE\\BlogTestUI\\appsettings.json",
+              "RelativeToolTip": "BlogTestUI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T11:34:24.404Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISqlDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE\\BlogDataLibrary\\Database\\ISqlDataAccess.cs",
+              "RelativeDocumentMoniker": "BlogDataLibrary\\Database\\ISqlDataAccess.cs",
+              "ToolTip": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE\\BlogDataLibrary\\Database\\ISqlDataAccess.cs",
+              "RelativeToolTip": "BlogDataLibrary\\Database\\ISqlDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:40:40.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE\\BlogAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BlogAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE\\BlogAPI\\appsettings.Development.json",
+              "RelativeToolTip": "BlogAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T11:34:17.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISqlData.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE\\BlogDataLibrary\\Data\\ISqlData.cs",
+              "RelativeDocumentMoniker": "BlogDataLibrary\\Data\\ISqlData.cs",
+              "ToolTip": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE\\BlogDataLibrary\\Data\\ISqlData.cs",
+              "RelativeToolTip": "BlogDataLibrary\\Data\\ISqlData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:40:43.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqlDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE\\BlogDataLibrary\\Database\\SqlDataAccess.cs",
+              "RelativeDocumentMoniker": "BlogDataLibrary\\Database\\SqlDataAccess.cs",
+              "ToolTip": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE\\BlogDataLibrary\\Database\\SqlDataAccess.cs",
+              "RelativeToolTip": "BlogDataLibrary\\Database\\SqlDataAccess.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwBUAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:40:56.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE\\BlogAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\luisa\\Documents\\GitHub\\Penaflor-FOPI01\\LE\\BlogAPI\\Program.cs",
+              "RelativeToolTip": "BlogAPI\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T04:11:49.683Z"
             }
           ]
         }

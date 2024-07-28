@@ -36,6 +36,15 @@ namespace BlogAPI
             builder.Services.AddTransient<ISqlDataAccess, SqlDataAccess>();
             builder.Services.AddSingleton<IConfiguration>(builder.Configuration);
 
+            // Add CORS policy
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowLocalhost4200",
+                    policy => policy.WithOrigins("http://localhost:4200")
+                                    .AllowAnyHeader()
+                                    .AllowAnyMethod());
+            });
+
             var app = builder.Build();
 
             if (app.Environment.IsDevelopment())
@@ -47,6 +56,9 @@ namespace BlogAPI
             app.UseHttpsRedirection();
             app.UseAuthentication();
             app.UseAuthorization();
+
+            // Enable CORS
+            app.UseCors("AllowLocalhost4200");
 
             app.MapControllers();
 
