@@ -3,21 +3,24 @@
   <h3>Login Here</h3>
   <form name="form" (ngSubmit)="onSubmit()" #f="ngForm" novalidate>
     <div>
-      <label for="username">Email</label>
-      <input
-             required
+      <label for="username">Username</label>
+      <input required
              type="text"
              name="username"
              [(ngModel)]="form.username"
-             #username="ngModel" >
+             #username="ngModel">
 
       <label for="password">Password</label>
       <input type="password"
              name="password"
              [(ngModel)]="form.password"
              required
-             #password="ngModel" >
+             #password="ngModel">
     </div>
-    <button>Submit</button>
+    <button type="submit">Submit</button>
   </form>
+  <div *ngIf="errorMessage" style="color: red;">
+    {{ errorMessage }}
+  </div>
+  <button (click)="navigateToRegister()">Sign In</button>
 </div>
