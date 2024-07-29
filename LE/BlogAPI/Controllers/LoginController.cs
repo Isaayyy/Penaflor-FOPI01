@@ -50,11 +50,12 @@ namespace BlogAPI.Controllers
             if (user != null)
             {
                 var token = GenerateToken(user);
-                return Ok(token);
+                return Ok(new { id_token = token, id = user.Id });
             }
 
             return NotFound("User not found");
         }
+
 
         [AllowAnonymous]
         [HttpPost]

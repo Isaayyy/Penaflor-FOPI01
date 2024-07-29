@@ -17,7 +17,7 @@ export class RegisterPageComponent implements OnInit {
 
   constructor(
     private http: HttpClient,
-    private route: Router
+    private router: Router
   ) { }
 
   ngOnInit(): void { }
@@ -25,10 +25,14 @@ export class RegisterPageComponent implements OnInit {
   onSubmit(): void {
     if (this.form.username && this.form.password && this.form.firstName && this.form.lastName) {
       this.http.post("https://localhost:7110/api/Login/register", this.form, { responseType: 'text' }).subscribe(data => {
-        this.route.navigate(['/login']);
+        this.router.navigate(['/login']);
       }, error => {
         console.error('Registration error', error);
       });
     }
+  }
+
+  navigateToLogin(): void {
+    this.router.navigate(['/login']);
   }
 }

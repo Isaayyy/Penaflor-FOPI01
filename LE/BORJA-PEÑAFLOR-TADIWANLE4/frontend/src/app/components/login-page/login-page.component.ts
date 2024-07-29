@@ -14,6 +14,7 @@ export class LoginPageComponent implements OnInit {
     username: null,
     password: null
   };
+  errorMessage: string = '';
 
   constructor(
     private authService: AuthService,
@@ -32,14 +33,25 @@ export class LoginPageComponent implements OnInit {
   onSubmit() {
     const { username, password } = this.form;
 
-    this.http.post<LoginPostData>("https://localhost:7110/api/Login/login", { username, password }).subscribe(data => {
-      this.tokenStorage.saveToken(data.id_token);
-      this.tokenStorage.saveUser(data.id);
-      this.router.navigate([this.authService.redirectUrl]);
-      window.location.reload();
-    }, error => {
-      console.error('Login error', error);
-    });
+    // Log form values to ensure they are being captured correctly
+    console.log('Form Values:', { username, password });
+
+    this.http.post<LoginPostData>("https://localhost:7110/api/Login/login", { UserName: username, Password: password })
+      .subscribe(data => {
+        console.log('Login response:', data);
+        this.tokenStorage.saveToken(data.id_token);
+        this.tokenStorage.saveUser(data.id);
+        this.router.navigate([this.authService.redirectUrl]);
+        window.location.reload();
+      }, error => {
+        // Log the error response for debugging
+        console.error('Login error', error);
+        this.errorMessage = 'Invalid username or password';
+      });
+  }
+
+  navigateToRegister() {
+    this.router.navigate(['/register']); 
   }
 }
 
