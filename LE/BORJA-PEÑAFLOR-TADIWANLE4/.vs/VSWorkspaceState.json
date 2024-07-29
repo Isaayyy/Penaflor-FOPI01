@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\frontend",
-    "\\frontend\\.angular",
     "\\frontend\\src",
     "\\frontend\\src\\app",
     "\\frontend\\src\\app\\components",
     "\\frontend\\src\\app\\components\\login-page",
     "\\frontend\\src\\app\\components\\register-page",
     "\\frontend\\src\\app\\models",
-    "\\frontend\\src\\app\\services"
+    "\\frontend\\src\\app\\services",
+    "\\frontend\\src\\assets"
   ],
-  "SelectedNode": "\\frontend\\src\\app\\app-routing.module.ts",
+  "SelectedNode": "\\frontend\\src\\app\\components\\list-posts\\list-posts.component.html",
   "PreviewInSolutionExplorer": false
 }
